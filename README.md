@@ -22,3 +22,5 @@ The purpose of this repository is to practise git on the commmand line, document
 To learn more commands on git view [cheat-sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 Here is a branches [cheat-sheet](https://devhints.io/git-branch) to maneuver through git branches from the commandline.
+
+Here are [notes](https://git-scm.com/docs/git) of git on the commandline and additional [detailed](https://devhints.io/git-revisions) material.
