@@ -1,6 +1,6 @@
 # Git-Test
 
-This repositories purpose is to practise git on the commmand line, document progress and save helpful resources.
+The purpose of this repository is to practise git on the commmand line, document progress and save helpful resources.
 
 ## Practise done 
 
